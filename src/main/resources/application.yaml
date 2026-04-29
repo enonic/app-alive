@@ -1,0 +1,5 @@
+kind: "Application"
+title: "Alive"
+description: "Checking that core xp-components are alive and healthy"
+vendorName: "Enonic AS"
+vendorUrl: "https://enonic.com"
